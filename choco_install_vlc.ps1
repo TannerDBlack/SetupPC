@@ -17,3 +17,4 @@ choco install vcredist-all
 choco install jetbrainstoolbox
 choco install intellijidea-ultimate
 choco install clion-ide
+choco install texmaker
